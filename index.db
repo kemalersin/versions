@@ -6,5 +6,9 @@
 	"mert-dekoratif-mobil": {
 		"ios": "0.1.29",	
 		"android": "0.1.29"
-	}	
+	},
+	"motolux-mobil": {
+		"ios": "0.1.29",	
+		"android": "0.1.29"
+	}		
 }
