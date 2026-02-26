@@ -10,5 +10,9 @@
 	"motolux-mobil": {
 		"ios": "0.1.33",	
 		"android": "0.1.33"
+	},
+	"aktan-mobil": {
+		"ios": "0.1.2",	
+		"android": "0.1.2"
 	}		
 }
